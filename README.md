@@ -1,0 +1,1 @@
+# go-to-same-directory-in-other-pane
